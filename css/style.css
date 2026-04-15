@@ -82,6 +82,18 @@ nav .container {
     text-align: center;
 }
 
+.hero-logo {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin: 0 auto 2rem;
+    display: block;
+    border-radius: 50%;
+    background: var(--white);
+    padding: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+}
+
 .hero h2 {
     font-size: 3rem;
     margin-bottom: 1rem;
